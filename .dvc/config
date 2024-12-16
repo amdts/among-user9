@@ -1,0 +1,6 @@
+[core]
+    remote = storage
+['remote "myremote"']
+    url = ../remote_storage
+['remote "storage"']
+    url = s3://am-s3-user9
